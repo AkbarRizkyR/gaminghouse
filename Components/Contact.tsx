@@ -33,7 +33,7 @@ const Contact = () => {
                     </p>
                     <div className='mt-[2rem] flex items-center space-x-2'>
                         <Image width={130} height={130} alt="playstore" className='object-contain' src="/images/gp.png" />
-                        <Image width={130} height={130} alt="playstore" className='object-contain' src="/images/as.png" />
+                        {/* <Image width={130} height={130} alt="appstore" className='object-contain' src="/images/as.png" /> */}
                     </div>
                 </div>
             </div>

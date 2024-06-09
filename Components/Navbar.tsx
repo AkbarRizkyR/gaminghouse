@@ -10,7 +10,7 @@ const Navbar = () => {
     <div className='h-[13vh] bg-gray-800'>
       <div className='w-[95%] md:w-[80%] mx-auto h-[100%] flex items-center justify-between'>
         <div>
-          <Image src="/images/logo.png" alt="logo" width={140} height={140} />
+          <Image src="/images/logo.png" alt="logo" width={130} height={130}/>
         </div>
         <div className='h-[50%] hidden flex-[0.7] overflow-hidden bg-gray-200 rounded-md md:flex items-center'>
           <input type="text" placeholder='Search Games (Cth: Dota 2, Valorant)' className='block pl-[0.5rem] w-[90%] outline-none mx-auto h-[100%] bg-gray-200' />
